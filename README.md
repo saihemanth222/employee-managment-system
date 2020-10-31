@@ -1,3 +1,3 @@
 # Employee Management System
 
-# Develop by : Sushil Saini & Sai Hemant
+# Developed by : Sushil Saini & Sai Hemant
